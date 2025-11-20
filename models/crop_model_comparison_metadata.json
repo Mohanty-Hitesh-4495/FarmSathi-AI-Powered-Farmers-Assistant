@@ -146,10 +146,10 @@
     ],
     "neural_network": {
       "Model": "Artificial Neural Network",
-      "Test_Accuracy": 0.9872727394104004,
-      "Final_Train_Accuracy": 0.9651514887809753,
-      "Final_Val_Accuracy": 0.9757575988769531,
-      "Training_Epochs": 50
+      "Test_Accuracy": 0.9909090995788574,
+      "Final_Train_Accuracy": 0.967424213886261,
+      "Final_Val_Accuracy": 0.9818181991577148,
+      "Training_Epochs": 43
     }
   },
   "best_models": {
@@ -163,8 +163,8 @@
       "accuracy": 0.9945454545454545
     },
     "neural_network": {
-      "accuracy": 0.9872727394104004,
-      "epochs_trained": 50
+      "accuracy": 0.9909090995788574,
+      "epochs_trained": 43
     }
   },
   "training_config": {
